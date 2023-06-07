@@ -1,0 +1,14 @@
+#submit{
+    margin-top:20px;
+    margin-bottom:20px;
+    color: rgb(96, 6, 126);
+}
+#sort{
+    margin-top:20px;
+    margin-bottom:20px;
+    color: rgb(96, 6, 126);
+    display:none
+}
+input{
+    margin:10px
+}
